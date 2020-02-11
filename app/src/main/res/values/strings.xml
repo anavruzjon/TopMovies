@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TopMovies</string>
+
+    <string name="schedule">Schedule viewing</string>
+    <string name="no_internet_connection">No internet connection. Offline data</string>
+    <string name="notification_channel_description">This is simple notification channel</string>
+
+</resources>
